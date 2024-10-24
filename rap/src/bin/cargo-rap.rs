@@ -30,6 +30,9 @@ Unsafe code tracing
 Dataflow tracing
     -dataflow        generate dataflow graphs
 
+Controlflow tracing
+    -callgraph       generate callgraphs
+
 General command: 
     -H or -help:     show help information
     -V or -version:  show the version of RAP
